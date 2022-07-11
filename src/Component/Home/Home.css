@@ -1,0 +1,46 @@
+.movie{
+    width:500px;
+    height:auto;
+    background-color:white;
+    margin-left:25%;
+    margin-top:29px;
+    border-radius:5px;
+}
+.items {
+    width:80%;
+    height:150px;
+    background-color:white;
+    margin-left:10%;
+    margin-top:2%;
+    border-radius:5px;
+
+}
+.pic{
+    float:left;
+    width:20%;
+    height:100%;
+    border-radius: 5px;
+    border-color: solid black;
+}
+.head{
+    float:left;
+    width:40%;
+    height:100%;
+    border-radius: 5px;
+   
+}
+.rate{
+    float:left;
+    width:20%;
+    height:100%;
+    border-radius: 5px;
+}
+#ate{
+    margin-top:25%;
+}
+.last{
+    float:left;
+    width:20%;
+    height:100%;
+    border-radius: 5px;
+}
